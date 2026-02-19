@@ -3,8 +3,8 @@
 > Reverse chronological order. Most recent session first.
 
 ---
+## Session: {slug}-YYYY-MM-DD-001
 
-## Session: YYYY-MM-DD
 
 **Project:** [project name]
 **Task:** [what was asked]
